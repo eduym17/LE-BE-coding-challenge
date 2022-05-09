@@ -12,7 +12,7 @@ Repositorio para creación de una API para lectura de archivo Json y validación
 - Express: ^4.18.1, npm server to build server.
 
 # Navigation
-- Port 3001.
+- Port 3000.
 - / to get welcome message.
 - /all to get all students.
 - /certified to get all certified students.
