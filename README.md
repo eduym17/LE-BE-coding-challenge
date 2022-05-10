@@ -9,7 +9,7 @@ Repositorio para creación de una API para lectura de archivo Json y validación
 
 - JavaScript
 - Jest: ^28.0.3, npm test to run tests.
-- Express: ^4.18.1, npm server to build server.
+- Express
 
 # Navigation
 - Port 3000.
@@ -17,3 +17,13 @@ Repositorio para creación de una API para lectura de archivo Json y validación
 - /all to get all students.
 - /certified to get all certified students.
 - /above500 to get all students with more than 500 credits.
+
+### Mounts server to access data
+```
+npm run server
+```
+
+### Run tests
+```
+npm run test
+```
